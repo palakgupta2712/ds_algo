@@ -1,3 +1,10 @@
+// Write a program to reverse an array.
+
+//Solution : Swap the elements at te start and end index of the array,
+then increment thestart index and decrement te end index.
+Then again swap both the indices and continue the loop till 
+    (start<end)
+
 import java.util.Scanner;
 class reverse_array{
     public static void main(String[] args) {
