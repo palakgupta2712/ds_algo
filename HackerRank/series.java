@@ -1,3 +1,6 @@
+/* https://www.hackerrank.com/challenges/java-loops/problem */
+// Series -  (a + 2^0 * b), (a + 2^0 * b + 2^1 * b ) , ..... (a + 2^0 * b + 2^1 * b + ... + 2^(n-1) * b)
+
 import java.util.Scanner;
 class series{
     public static void main(String[] args) {
