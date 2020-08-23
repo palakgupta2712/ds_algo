@@ -1,4 +1,8 @@
 /* https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/ */
+/* Complexity - O(n^2) 
+     Use Hashing to solve this in O(n) time on average.
+*/
+
 
 import java.util.Scanner;
 import java.io.*;
